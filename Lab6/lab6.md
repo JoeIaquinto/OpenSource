@@ -11,7 +11,6 @@ Table 4 16-20
    * graphics-testing
    * gh-pages
    * stable
- * Gitstats reports WAY fewer lines of code 190358, i believe this is due to the command we used analyzing images and other files as lines. 
 
 #17: EveOnlineMarketAnalysisTool
  * 7 Contributors
@@ -24,15 +23,6 @@ Table 4 16-20
    * Merge
    * dygraphs
    * Web
- * Gitstats reports a few more lines of code and provides more infromation than we were supposed to find. it was hard to locate the dates of the first and most recent commits. but the other data was easily accessible
-
-#18: Trellis
-  * 1 Contributer
-  * 3595 total lines of code
-  * First commit August 30th, 2015
-  * Latest commit December 10th, 2015
-  * There is 1 branch:
-    * Master   
 
 #19: Gatekeeper
   * 2 Contributers
@@ -42,5 +32,13 @@ Table 4 16-20
   * There are 2 branches:
     * Master
     * test/motor
+  * Gitstats:
+    * The contributers always commited in the afternoon. There were only a few commits so gitstats didn't offer much more insight into the project.
 
-
+#20: Trellis
+  * 1 Contributer
+  * 3595 total lines of code
+  * First commit August 30th, 2015
+  * Latest commit December 10th, 2015
+  * There is 1 branch:
+    * Master   
